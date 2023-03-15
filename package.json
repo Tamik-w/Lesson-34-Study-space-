@@ -1,0 +1,23 @@
+{
+  "name": "lesson-34",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tamik-w/Lesson-34-Study-space-.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tamik-w/Lesson-34-Study-space-/issues"
+  },
+  "homepage": "https://github.com/Tamik-w/Lesson-34-Study-space-#readme",
+  "dependencies": {
+    "bootstrap": "^5.2.3",
+    "gulp": "^4.0.2"
+  }
+}
